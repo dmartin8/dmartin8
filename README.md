@@ -1,6 +1,6 @@
-### Hola 👋
-### Me llamo Daniel Martín
-### 🔭 Actualmente trabajo con Angular
+### Hello 👋
+### My name is Daniel Martín, I am Front End Developer
+### 🔭 I’m currently working on: Angular 8, NodeJS, MongoDB. 
 
 <!--
 **dmartin8/dmartin8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
