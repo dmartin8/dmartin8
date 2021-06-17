@@ -6,7 +6,7 @@
 
 
 
-![Screenshot](img/img.jpg)
+![Screenshot](img/img.jpg | width=50)
 <!--
 **dmartin8/dmartin8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
