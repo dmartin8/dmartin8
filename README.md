@@ -1,6 +1,6 @@
 ### Hello 👋
 ## My name is Daniel Martín, I am Front End Developer
-## 🔭 I’m currently working on: Angular 8, NodeJS, MongoDB.
+## 🔭 I’m currently working on: Laravel 9, Vue JS.
 
 # 😄 [Favourite links](https://github.com/dmartin8/Web-Development-Links)  
 
