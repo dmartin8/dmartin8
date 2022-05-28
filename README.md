@@ -1,8 +1,9 @@
 ### Hello 👋
 ## My name is Daniel Martín, I am Full Stack Developer
-## 🔭 I’m currently working on: Laravel 9 and Vue
+- 🔭 I’m currently working on: Laravel 9 and Vue
+- 🌱 I’m currently learning DevOps and AWS
 
-# 😄 [Favourite links](https://github.com/dmartin8/Web-Development-Links)  
+# 😄 [Blog](https://dmartin8.github.io/)  
 
 
 
