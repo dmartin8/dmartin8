@@ -1,7 +1,7 @@
 ### Hello 👋
-## My name is Daniel Martín, I am Full Stack Developer
-- 🔭 Focus in React, ASP NET CORE, Javascript, Node. In love with devops culture and, of course, Docker :)
-
+## My name is Daniel Martín, I am Front-End Engineer 
+- 🔭 Focus in Javascript, React, Next and Remix. In love with devops culture and, of course, Docker :)
+- 🌱 I’m currently learning Terraform
 
 <!-- ![Screenshot](img/img.jpg | width=100)
 ![](https://github.com/dmartin8/dmartin8/blob/main/img/img.jpg | width=100)
